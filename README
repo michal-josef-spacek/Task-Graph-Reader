@@ -1,0 +1,27 @@
+NAME
+    Task::Graph::Reader - Install the Graph::Reader modules.
+
+SYNOPSIS
+     cpanm Task::Graph::Reader
+
+SEE ALSO
+    Graph::Reader, Graph::Reader::OID, Graph::Reader::TGF,
+    Graph::Reader::TGF::CSV, Graph::Reader::UnicodeTree,
+    Graph::Reader::LoadClassHierarchy.
+
+REPOSITORY
+    <https://github.com/tupinek/Task-Graph-Reader>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2015 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
