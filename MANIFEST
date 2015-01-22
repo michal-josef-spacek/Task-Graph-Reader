@@ -14,6 +14,7 @@ MANIFEST			This list of files
 META.yml
 Reader.pm
 README
+SIGNATURE
 t/Task-Graph-Reader/00-use.t
 t/Task-Graph-Reader/01-version.t
 t/Task-Graph-Reader/02-pod_coverage.t
