@@ -8,4 +8,4 @@ use Test::More 'tests' => 2;
 use Test::NoWarnings;
 
 # Test.
-is($Task::Graph::Reader::VERSION, 0.01, 'Version.');
+is($Task::Graph::Reader::VERSION, 0.02, 'Version.');
