@@ -25,12 +25,33 @@ Task::Graph::Reader - Install the Graph::Reader modules.
 
 =head1 SEE ALSO
 
-L<Graph::Reader>,
-L<Graph::Reader::OID>,
-L<Graph::Reader::TGF>,
-L<Graph::Reader::TGF::CSV>,
-L<Graph::Reader::UnicodeTree>,
-L<Graph::Reader::LoadClassHierarchy>.
+=over
+
+=item L<Graph::Reader>
+
+base class for Graph file format readers
+
+=item L<Graph::Reader::OID>
+
+Perl class for reading a graph from OID format.
+
+=item L<Graph::Reader::TGF>
+
+Perl class for reading a graph from TGF format.
+
+=item L<Graph::Reader::TGF::CSV>
+
+Perl class for reading a graph from TGF format with CSV labeling.
+
+=item L<Graph::Reader::UnicodeTree>
+
+Perl class for reading a graph from unicode tree text format.
+
+=item L<Graph::Reader::LoadClassHierarchy>
+
+load Graphs from class hierarchies
+
+=back
 
 =head1 REPOSITORY
 

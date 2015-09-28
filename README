@@ -5,9 +5,23 @@ SYNOPSIS
      cpanm Task::Graph::Reader
 
 SEE ALSO
-    Graph::Reader, Graph::Reader::OID, Graph::Reader::TGF,
-    Graph::Reader::TGF::CSV, Graph::Reader::UnicodeTree,
-    Graph::Reader::LoadClassHierarchy.
+    Graph::Reader
+        base class for Graph file format readers
+
+    Graph::Reader::OID
+        Perl class for reading a graph from OID format.
+
+    Graph::Reader::TGF
+        Perl class for reading a graph from TGF format.
+
+    Graph::Reader::TGF::CSV
+        Perl class for reading a graph from TGF format with CSV labeling.
+
+    Graph::Reader::UnicodeTree
+        Perl class for reading a graph from unicode tree text format.
+
+    Graph::Reader::LoadClassHierarchy
+        load Graphs from class hierarchies
 
 REPOSITORY
     <https://github.com/tupinek/Task-Graph-Reader>
