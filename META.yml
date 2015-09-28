@@ -34,4 +34,4 @@ resources:
   homepage: https://github.com/tupinek/Task-Graph-Reader
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/tupinek/Task-Graph-Reader
-version: '0.02'
+version: '0.03'
