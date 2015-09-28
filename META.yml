@@ -22,7 +22,7 @@ no_index:
     - t
     - xt
 requires:
-  Graph::Reader: '2.06'
+  Graph::Reader: '2.07'
   Graph::Reader::LoadClassHierarchy: 0.01
   Graph::Reader::OID: 0.02
   Graph::Reader::TGF: 0.02
