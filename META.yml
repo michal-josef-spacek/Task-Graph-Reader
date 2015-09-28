@@ -3,13 +3,9 @@ abstract: 'Install the Graph::Reader modules.'
 author:
   - 'Michal Spacek <skim@cpan.org>'
 build_requires:
-  English: 0
   ExtUtils::MakeMaker: 6.36
-  File::Object: 0.08
   Test::More: 0
   Test::NoWarnings: 0
-  Test::Pod: 0
-  Test::Pod::Coverage: 0
 configure_requires:
   ExtUtils::MakeMaker: 6.36
 distribution_type: module
@@ -24,6 +20,7 @@ no_index:
   directory:
     - inc
     - t
+    - xt
 requires:
   Graph::Reader: '2.06'
   Graph::Reader::LoadClassHierarchy: 0.01

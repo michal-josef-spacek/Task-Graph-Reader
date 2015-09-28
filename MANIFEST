@@ -1,5 +1,7 @@
 Changes
 inc/Module/Install.pm
+inc/Module/Install/AuthorRequires.pm
+inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/Fetch.pm
@@ -15,7 +17,7 @@ META.yml
 Reader.pm
 README
 SIGNATURE
-t/Task-Graph-Reader/00-use.t
-t/Task-Graph-Reader/01-version.t
-t/Task-Graph-Reader/02-pod_coverage.t
-t/Task-Graph-Reader/03-pod.t
+t/Task-Graph-Reader/01-use.t
+t/Task-Graph-Reader/02-version.t
+xt/Task-Graph-Reader/01-pod_coverage.t
+xt/Task-Graph-Reader/02-pod.t

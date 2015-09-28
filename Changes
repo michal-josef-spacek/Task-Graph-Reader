@@ -1,6 +1,7 @@
 0.02
  - Add another classes to SEE ALSO section in doc.
  - Improve SEE ALSO section in doc.
+ - Move author tests to xt/ directory.
  - Update Graph::Reader::UnicodeTree to 0.02 version.
  - Update Module::Install to 1.16 version.
 
