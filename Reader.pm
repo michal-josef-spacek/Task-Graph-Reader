@@ -31,6 +31,22 @@ Task::Graph::Reader - Install the Graph::Reader modules.
 
 base class for Graph file format readers
 
+=item L<Graph::Reader::Dot>
+
+class for reading a Graph instance from Dot format
+
+=item L<Graph::Reader::Graph6>
+
+read Graph in graph6 or sparse6 format
+
+=item L<Graph::Reader::HTK>
+
+read an HTK lattice in as an instance of Graph
+
+=item L<Graph::Reader::LoadClassHierarchy>
+
+load Graphs from class hierarchies
+
 =item L<Graph::Reader::OID>
 
 Perl class for reading a graph from OID format.
@@ -47,9 +63,9 @@ Perl class for reading a graph from TGF format with CSV labeling.
 
 Perl class for reading a graph from unicode tree text format.
 
-=item L<Graph::Reader::LoadClassHierarchy>
+=item L<Graph::Reader::XML>
 
-load Graphs from class hierarchies
+class for reading a Graph instance from XML
 
 =back
 
