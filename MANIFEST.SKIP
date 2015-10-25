@@ -11,3 +11,4 @@ CONCEPT
 MYMETA.json
 MYMETA.yml
 cover_db/
+.travis.yml
