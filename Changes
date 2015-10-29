@@ -1,5 +1,6 @@
 0.03
  - Update Graph::Reader::OID to 0.03 version.
+ - Update Graph::Reader::TGF to 0.03 version.
 
 0.02 2015-09-28T20:56:39+02:00
  - Add another classes to SEE ALSO section in doc.
