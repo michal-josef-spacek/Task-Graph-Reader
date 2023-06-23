@@ -1,4 +1,5 @@
 0.04
+ - Fix Makefile.PL fails with no '.' in @INC.
 
 0.03 2015-11-03T23:07:46+01:00
  - Update Graph::Reader::OID to 0.03 version.

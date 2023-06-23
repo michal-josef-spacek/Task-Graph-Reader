@@ -1,4 +1,5 @@
 # Pragmas.
+use lib '.';
 use strict;
 use warnings;
 
