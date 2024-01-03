@@ -4,6 +4,7 @@
  - Move bugtracker to github.
  - Update Graph::Reader::OID to 0.05 version.
  - Update Graph::Reader::TGF to 0.04 version.
+ - Update Graph::Reader::TGF::CSV to 0.03 version.
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update author name.
