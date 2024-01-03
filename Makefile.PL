@@ -19,7 +19,7 @@ readme_from 'Reader.pm';
 recursive_author_tests('xt');
 requires 'Graph::Reader' => '2.07',
 requires 'Graph::Reader::OID' => 0.05;
-requires 'Graph::Reader::TGF' => 0.03;
+requires 'Graph::Reader::TGF' => 0.04;
 requires 'Graph::Reader::TGF::CSV' => 0.02;
 requires 'Graph::Reader::UnicodeTree' => 0.02;
 requires 'Graph::Reader::LoadClassHierarchy' => 0.01;

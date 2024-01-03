@@ -3,6 +3,7 @@
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Move bugtracker to github.
  - Update Graph::Reader::OID to 0.05 version.
+ - Update Graph::Reader::TGF to 0.04 version.
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update author name.
