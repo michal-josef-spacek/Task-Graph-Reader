@@ -17,7 +17,7 @@ license 'bsd';
 name 'Task-Graph-Reader';
 readme_from 'Reader.pm';
 recursive_author_tests('xt');
-requires 'Graph::Reader' => '2.07',
+requires 'Graph::Reader' => '2.10',
 requires 'Graph::Reader::OID' => 0.05;
 requires 'Graph::Reader::TGF' => 0.04;
 requires 'Graph::Reader::TGF::CSV' => 0.03;
