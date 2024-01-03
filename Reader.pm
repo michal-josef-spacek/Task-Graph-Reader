@@ -1,10 +1,8 @@
 package Task::Graph::Reader;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Version.
 our $VERSION = 0.04;
 
 1;
