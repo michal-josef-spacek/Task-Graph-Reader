@@ -71,7 +71,7 @@ class for reading a Graph instance from XML
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-Graph-Reader>
+L<https://github.com/michal-josef-spacek/Task-Graph-Reader>
 
 =head1 AUTHOR
 

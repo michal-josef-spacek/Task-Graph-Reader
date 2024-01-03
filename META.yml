@@ -31,7 +31,7 @@ requires:
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Graph-Reader
-  homepage: https://github.com/tupinek/Task-Graph-Reader
+  homepage: https://github.com/michal-josef-spacek/Task-Graph-Reader
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Task-Graph-Reader
+  repository: git://github.com/michal-josef-spacek/Task-Graph-Reader
 version: '0.04'
