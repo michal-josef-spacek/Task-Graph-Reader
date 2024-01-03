@@ -1,4 +1,5 @@
 0.04
+ - Add Graph::Reader::Graph6.
  - Fix Makefile.PL fails with no '.' in @INC.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Move bugtracker to github.
