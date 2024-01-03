@@ -1,4 +1,4 @@
-0.04
+0.04 2024-01-03T13:23:04+01:00
  - Add Graph::Reader::Graph6.
  - Fix Makefile.PL fails with no '.' in @INC.
  - Improve LICENSE AND COPYRIGHT section in doc.
