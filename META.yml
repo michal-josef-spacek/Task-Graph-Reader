@@ -24,7 +24,7 @@ no_index:
 requires:
   Graph::Reader: '2.07'
   Graph::Reader::LoadClassHierarchy: 0.01
-  Graph::Reader::OID: 0.03
+  Graph::Reader::OID: 0.05
   Graph::Reader::TGF: 0.03
   Graph::Reader::TGF::CSV: 0.02
   Graph::Reader::UnicodeTree: 0.02
