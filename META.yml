@@ -30,7 +30,7 @@ requires:
   Graph::Reader::UnicodeTree: 0.02
   perl: 5.6.0
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Graph-Reader
+  bugtracker: https://github.com/michal-josef-spacek/Task-Graph-Reader/issues
   homepage: https://github.com/michal-josef-spacek/Task-Graph-Reader
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/michal-josef-spacek/Task-Graph-Reader
