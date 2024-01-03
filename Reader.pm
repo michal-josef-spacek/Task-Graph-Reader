@@ -75,13 +75,13 @@ L<https://github.com/michal-josef-spacek/Task-Graph-Reader>
 
 =head1 AUTHOR
 
-Michal Špaček L<mailto:skim@cpan.org>
+Michal Josef Špaček L<mailto:skim@cpan.org>
 
 L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2015-2024 Michal Špaček
+ © 2015-2024 Michal Josef Špaček
  Artistic License
  BSD 2-Clause License
 

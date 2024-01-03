@@ -2,6 +2,7 @@
  - Fix Makefile.PL fails with no '.' in @INC.
  - Update Module::Install to 1.21 version.
  - Update author github username.
+ - Update author name.
  - Update copyright years.
 
 0.03 2015-11-03T23:07:46+01:00
